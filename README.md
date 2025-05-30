@@ -46,27 +46,5 @@ A simple, responsive Income Tax Calculator web app built with HTML, CSS, JavaScr
 Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## Author
-
-Your Name  
-[Your GitHub Profile](https://github.com/yourusername)
-
----
-
-## Screenshot
-
-![Income Tax Calculator Screenshot](screenshot.png) *(Add your screenshot here if you want)*
-
----
-
-## Disclaimer
-
 This calculator provides a simplified tax calculation for educational/demo purposes.  
 For accurate tax filing and details, always refer to official government resources or consult a tax professional.
